@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  ![Snake animation](https://github.com/andersonmogdans/andersonmogdans/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/andersonmogdans/andersonmogdans/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <div align="center">
